@@ -43,7 +43,10 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
 
-    implementation 'com.google.android.exoplayer:exoplayer:2.13.2'
+    implementation 'com.google.android.exoplayer:exoplayer:2.15.0'
+//    implementation 'com.google.android.exoplayer:exoplayer-core:2.13.2'
+//    implementation 'com.google.android.exoplayer:exoplayer-dash:2.13.2'
+    implementation 'com.google.android.exoplayer:exoplayer-ui:2.15.0'
 
 //    implementation "androidx.multidex:multidex:2.0.1"
 //    implementation 'com.github.HaarigerHarald:android-youtubeExtractor:v2.1.0'
